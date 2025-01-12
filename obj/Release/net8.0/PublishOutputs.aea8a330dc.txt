@@ -1,6 +1,11 @@
 /Users/munara/Downloads/catalog/publish/catalog
+/Users/munara/Downloads/catalog/publish/publish/web.config
 /Users/munara/Downloads/catalog/publish/appsettings.Development.json
 /Users/munara/Downloads/catalog/publish/appsettings.json
+/Users/munara/Downloads/catalog/publish/publish/appsettings.Development.json
+/Users/munara/Downloads/catalog/publish/publish/appsettings.json
+/Users/munara/Downloads/catalog/publish/publish/catalog.deps.json
+/Users/munara/Downloads/catalog/publish/publish/catalog.runtimeconfig.json
 /Users/munara/Downloads/catalog/publish/catalog.dll
 /Users/munara/Downloads/catalog/publish/catalog.runtimeconfig.json
 /Users/munara/Downloads/catalog/publish/catalog.pdb

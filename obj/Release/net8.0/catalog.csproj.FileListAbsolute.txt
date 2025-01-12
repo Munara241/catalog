@@ -289,3 +289,9 @@
 /Users/munara/Downloads/catalog/obj/Release/net8.0/catalog.pdb
 /Users/munara/Downloads/catalog/obj/Release/net8.0/catalog.genruntimeconfig.cache
 /Users/munara/Downloads/catalog/obj/Release/net8.0/ref/catalog.dll
+/Users/munara/Downloads/catalog/bin/Release/net8.0/publish/web.config
+/Users/munara/Downloads/catalog/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/munara/Downloads/catalog/bin/Release/net8.0/publish/appsettings.json
+/Users/munara/Downloads/catalog/bin/Release/net8.0/publish/catalog.deps.json
+/Users/munara/Downloads/catalog/bin/Release/net8.0/publish/catalog.runtimeconfig.json
+/Users/munara/Downloads/catalog/obj/Release/net8.0/catalog.sourcelink.json
